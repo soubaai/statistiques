@@ -8,4 +8,6 @@ import javax.transaction.Transactional;
 @Transactional
 public class StaistiqueService {
     private String champ1;
+    private String champ2;
+
 }
