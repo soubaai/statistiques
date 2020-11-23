@@ -10,4 +10,5 @@ public class StaistiqueService {
     private String champ1;
     private String champ2;
 
+
 }
